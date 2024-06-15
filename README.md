@@ -2,12 +2,20 @@
 
 ## Concepts
 
+We demoed how to create first Webserver using Express.
+
+- What is Express?
+- How to instantiate Web-server?
+- Created our first endpoint :tada: `/todos`
+
 ## Installation Steps
 
-- npm init --> package.json
+- Clone this project `git clone https://github.com/ankurbag/express-demo.git`
+- Go to folder `cd express-demo`
+- Run `npm install` or `npm i`
+- Run `npm start`
+- Open [http://localhost:8080](http://localhost:3000) to view it in your browser.
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[Express](https://www.npmjs.com/package/express)
